@@ -1,0 +1,31 @@
+
+body {
+    margin: 10px 10px auto;
+}
+
+aside {
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  font-style: italic;
+  background-color: lightgray;
+}
+
+header {
+    background-color: #303846;
+    color: white;
+}
+
+h1 {
+    color: #2e7afd;
+}
+
+header h1 {
+    color: rgb(198, 137, 255);
+}
+
+/* .nombre {
+    color: red;
+}
+*/
